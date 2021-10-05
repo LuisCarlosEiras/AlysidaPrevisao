@@ -22,7 +22,7 @@ HOJE = date.today().strftime("%d/%m/%Y")
 st.title("Projeto Alysida. Previsao de entrega da cadeia de suprimentos")
 
 # Define o arquivo com os trajetos das entregas 
-trajetos = ('C:/trajeto1.csv','C:/trajeto2.csv','C:/trajeto3.csv')
+trajetos = ('trajeto1.csv','trajeto2.csv','trajeto3.csv')
 
 # Define de qual trajeto usaremos os dados por vez
 trajeto_selecionado = st.selectbox('Selecione o arquivo de trajeto para as previsao de rotas:', trajetos)
