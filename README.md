@@ -19,6 +19,20 @@ Executar inicialmente a instalação dos programas
 pip install -r requirements.txt
 
 ```
+Serão instalados os programas
+
+- streamlit
+- protobuf
+- datetime
+- yfinance
+- numpy
+- pystan==2.19.1.1
+- plotly
+- matplotlib
+- fbprophet==0.5
+- holidays==0.9.12
+- pandas
+
 <p align="center">
   <img src="cropped-ALYSIDA-1.png">
 </p>
