@@ -13,7 +13,7 @@ A partir de um determinado número de registro, esse dataset é submetido a um a
 
 ## O programa
 
-Executar inicialmente os a instalação dos programas
+Executar inicialmente a instalação dos programas
 
 ```
 pip install -r requirements.txt
