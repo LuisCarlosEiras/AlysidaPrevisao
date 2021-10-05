@@ -19,3 +19,6 @@ Executar inicialmente a instalação dos programas
 pip install -r requirements.txt
 
 ```
+<p align="center">
+  <img src="cropped-ALYSIDA-1.png">
+</p>
