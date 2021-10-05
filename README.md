@@ -33,6 +33,12 @@ Serão instalados os programas
 - holidays==0.9.12
 - pandas
 
+## Executar o programa
+
+```
+streamlit run blockTrajeto2
+```
+
 <p align="center">
   <img src="cropped-ALYSIDA-1.png">
 </p>
