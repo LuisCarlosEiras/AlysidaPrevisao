@@ -1,3 +1,8 @@
-# AlysidaPrevisao
+# Alysida - Previsão de entrega das mercadorias
 
-executar os requerimentos
+Executar
+
+```
+pip install -r requirements.txt
+
+```
