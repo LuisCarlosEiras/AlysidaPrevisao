@@ -38,6 +38,12 @@ Serão instalados os programas
 ```
 streamlit run blockTrajeto2
 ```
+## No Streamlit
+
+Este programa pode ser visto no Streamlit em 
+
+https://share.streamlit.io/luiscarloseiras/alysidaprevisao/main/blockTrajeto2.py
+
 
 <p align="center">
   <img src="cropped-ALYSIDA-1.png">
